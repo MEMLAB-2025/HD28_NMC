@@ -47,8 +47,11 @@ module read_FSM(
     address
     );
 
+<<<<<<< Updated upstream
     //123456
 
+=======
+>>>>>>> Stashed changes
     //clock and reset
     input sys_clk;
     input sys_en;
